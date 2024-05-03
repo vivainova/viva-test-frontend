@@ -45,4 +45,7 @@ SHADCN/UI https://ui.shadcn.com/
 
 ## API
 
+Documentação de API para o desafio:
+https://documenter.getpostman.com/view/89286/2sA3JGdiFR
+
 
