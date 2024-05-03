@@ -4,6 +4,10 @@ Neste desafio, você será responsável por criar uma aplicação web front-end 
 
 O objetivo é desenvolver um sistema de CRUD (Create, Read, Update, Delete) para clientes, fornecendo as funcionalidades de listagem, cadastro, exclusão, edição, pesquisa e uma tela de login para acessar o sistema.
 
+## Referência
+NEXTJS https://nextjs.org/
+SHADCN/UI https://ui.shadcn.com/
+
 ## Requisitos
 
 - Utilize React com Next.js para criar a aplicação.
@@ -40,3 +44,5 @@ O objetivo é desenvolver um sistema de CRUD (Create, Read, Update, Delete) para
 - Boa sorte e divirta-se desenvolvendo!
 
 ## API
+
+
