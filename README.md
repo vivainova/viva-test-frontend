@@ -6,6 +6,7 @@ O objetivo é desenvolver um sistema de CRUD (Create, Read, Update, Delete) para
 
 ## Referência
 NEXTJS https://nextjs.org/
+
 SHADCN/UI https://ui.shadcn.com/
 
 ## Requisitos
