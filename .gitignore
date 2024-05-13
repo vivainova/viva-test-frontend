@@ -1,1 +1,15 @@
-.idea
+# Dependencies
+node_modules/
+.next/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build files
+out/
+build/
+dist/
+.cache/
