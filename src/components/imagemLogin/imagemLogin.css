@@ -1,0 +1,11 @@
+.computer-image {
+    flex: 1;
+    overflow: hidden;
+  }
+  
+  .computer-image img {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    object-position: center;
+  }
